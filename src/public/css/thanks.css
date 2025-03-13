@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.thankyou-text{
+    width: 1381px;
+    height: 365px;
+    top: 319px;
+    left: 66px;
+    font-family: Inika;
+    font-weight: 400;
+    font-size: 280px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #8B79690D;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.message {
+    font-family: Inika;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #8B7969;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.form__button {
+    display: flex;
+    justify-content: center;
+    width: 140px;
+    height: 46px;
+    top: 555px;
+    left: 686px;
+    padding: 10px 40px;
+    gap: 10px;
+    background: #82756A;
+    margin: auto;
+}
+
+.button-home {
+    width: auto;
+    height: auto;
+    top: 555px;
+    left: 686px;
+    padding: 10px 40px;
+    gap: 10px;
+    background: #82756A;
+    font-family: Inika;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: center;
+    width: 60px;
+    height: 26px;
+}
